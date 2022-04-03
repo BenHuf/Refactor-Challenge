@@ -7,6 +7,9 @@ You can clone this repository using the following command:
 Starter code written by [Xandromus](https://github.com/Xandromus)
 
 
+GitHub Page Link: https://benhuf.github.io/Refactor-Challenge/
+
+
 ![Refactored Horiseon landing page](./assets/images/Horiseon.png)
 
 
