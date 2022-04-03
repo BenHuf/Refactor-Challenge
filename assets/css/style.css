@@ -65,6 +65,10 @@ header nav ul li {
     background-position: center;
 }
 
+/* end hero styles */
+
+/* content styles */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -98,6 +102,9 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+ /* end content styles */
+
+ /* benefits stlyes */
 
 .benefits {
     margin-right: 20px;
@@ -127,7 +134,7 @@ header nav ul li {
     max-width: 150px;
 }
 
-/* end hero styles */
+/* end benefits styles */
 
 /* footer styles */
 
